@@ -9,7 +9,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name = "lingyv"
+let g:colors_name = "Colorful"
 
 hi Normal guifg=#00ff00 guibg=#002b36 guisp=#002b36 gui=NONE ctermfg=10 ctermbg=234 cterm=NONE
 "hi clear -- no settings --
